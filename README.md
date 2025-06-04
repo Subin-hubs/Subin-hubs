@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Flutter Projects <br>👯 I’m looking to collaborate on Fun UI-based apps in Flutter <br>🤝 I’m looking for help with App UI design or GitHub basics<br>🌱 I’m currently learning Flutter, Java, and Data Structures.<br>💬 Ask me about App UI design<br>.
 
 
 # 💻 Tech Stack:
