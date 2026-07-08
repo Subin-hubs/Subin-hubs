@@ -1,24 +1,162 @@
-# 💫 About Me:
-🔭 I’m currently working on Flutter Projects <br>👯 I’m looking to collaborate on Fun UI-based apps in Flutter <br>🤝 I’m looking for help with App UI design or GitHub basics<br>🌱 I’m currently learning Flutter, Java, and Data Structures.<br>💬 Ask me about App UI design<br>.
+<!--
+  ============================================================
+  GitHub Profile README — Subin Tamang (@subin-hubs)
+  ============================================================
+  HOW TO USE:
+  1. Save this file as README.md inside a repo named exactly
+     your GitHub username: subin-hubs/subin-hubs
+  2. Every instance of "subin-hubs" below refers to your GitHub
+     username — replace it everywhere if you ever rename your account.
+  3. Sections marked with an HTML comment (like this one) are
+     safe to edit, remove, or expand later (e.g. Certifications,
+     Education, Experience) once you have that info ready.
+  ============================================================
+-->
 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Subin-hubs&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Subin-hubs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Subin-hubs&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Animated typing intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Subin+Tamang+%F0%9F%91%8B;Flutter+%26+Full+Stack+Developer;Turning+Coffee+%E2%98%95+into+Flutter+Apps;Based+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+
+<!-- Profile views + socials -->
+<img src="https://komarev.com/ghpvc/?username=subin-hubs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />&nbsp;
+<a href="https://linkedin.com/in/subin-tamang-394179300"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:subintamang008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://subintamang.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+
+</div>
+
+<br/>
+
+## 👨‍💻 About Me
+
+I'm a passionate **Flutter & Full Stack Developer** from Nepal 🇳🇵, focused on building clean, performant mobile and web experiences. I care about good UI/UX as much as clean architecture — and I genuinely enjoy the process of turning an idea into a working app.
+
+- 🔭 Currently building **[Afforda](https://github.com/Subin-hubs/Afforda)** — an AI-powered personal finance app
+- 🌱 Currently learning **Flutter, Firebase, Riverpod, AI Integration, React, Node.js, System Design**
+- 👯 Looking to collaborate on **open-source Flutter projects**
+- 💬 Ask me about **Flutter, Dart, Firebase, Mobile App Development, UI/UX, Git**
+- 🌐 All my work lives at **[subintamang.com.np](https://subintamang.com.np)**
+- ⚡ Fun fact: **I turn coffee ☕ into Flutter apps.**
+
+<!--
+  Add Education / Experience / Certifications sections here once
+  you're ready to share details — kept out for now to avoid
+  placeholder or inaccurate content.
+-->
+
+<br/>
+
+## 🎯 Current Focus
+
+```text
+🔭 Building     → Afforda (AI-powered personal finance app)
+🌱 Learning     → Flutter · Firebase · Riverpod · AI Integration · React · Node.js · System Design
+🤝 Open to      → Collaborating on open-source Flutter projects
+```
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=dart,java,c,js,html,css,python" />
+
+**Frameworks & Libraries**
+<br/>
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,tailwind" />
+
+**Tools & Platforms**
+<br/>
+<img src="https://skillicons.dev/icons?i=firebase,figma,git,github,mysql,androidstudio,vscode" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/Subin-hubs/Afforda">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subin-hubs&repo=Afforda&theme=default&hide_border=true" alt="Afforda repo card" />
+</a>
+
+</div>
+
+> **Afforda** — an AI-powered personal finance app built with Flutter, focused on helping people track spending and make smarter money decisions.
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=subin-hubs&show_icons=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subin-hubs&layout=compact&hide_border=true&title_color=0e75b6&langs_count=8" alt="Top Languages" height="165"/>
+
+<img src="https://streak-stats.demolab.com/?user=subin-hubs&hide_border=true&background=00000000&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=subin-hubs&theme=react-dark&hide_border=true&bg_color=00000000" alt="Contribution Graph" width="95%"/>
+
+</div>
+
+<br/>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Subin-hubs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Subin-hubs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://github-profile-trophy.vercel.app/?username=subin-hubs&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
 
----
-[![](https://visitcount.itsvg.in/api?id=Subin-hubs&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+## 🎯 Goals for 2026
+
+- [ ] Ship **Afforda** publicly with a polished v1.0 release
+- [ ] Contribute to at least 3 open-source Flutter repositories
+- [ ] Level up backend skills with Node.js and system design
+- [ ] Grow a consistent GitHub contribution streak
+
+<br/>
+
+## 💬 Quote
+
+<div align="center">
+
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+</div>
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/subin-tamang-394179300" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+&nbsp;
+<a href="mailto:subintamang008@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
+</a>
+&nbsp;
+<a href="https://subintamang.com.np" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="30" width="40" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+⭐️ From **[subin-hubs](https://github.com/subin-hubs)** — thanks for stopping by!
+
+</div>
