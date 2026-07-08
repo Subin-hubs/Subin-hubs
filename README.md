@@ -1,17 +1,4 @@
-<!--
-  ============================================================
-  GitHub Profile README — Subin Tamang (@subin-hubs)
-  ============================================================
-  HOW TO USE:
-  1. Save this file as README.md inside a repo named exactly
-     your GitHub username: subin-hubs/subin-hubs
-  2. Every instance of "subin-hubs" below refers to your GitHub
-     username — replace it everywhere if you ever rename your account.
-  3. Sections marked with an HTML comment (like this one) are
-     safe to edit, remove, or expand later (e.g. Certifications,
-     Education, Experience) once you have that info ready.
-  ============================================================
--->
+
 
 <div align="center">
 
@@ -81,13 +68,13 @@ I'm a passionate **Flutter & Full Stack Developer** from Nepal 🇳🇵, focused
 
 <div align="center">
 
-<a href="https://github.com/Subin-hubs/Afforda">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subin-hubs&repo=Afforda&theme=default&hide_border=true" alt="Afforda repo card" />
+<a href="https://github.com/Subin-hubs/money_management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subin-hubs&repo=money_management&theme=default&hide_border=true" alt="Afforda repo card" />
 </a>
 
 </div>
 
-> **Afforda** — an AI-powered personal finance app built with Flutter, focused on helping people track spending and make smarter money decisions.
+> **Afforda** — an AI-powered personal finance app built with Flutter, focused on helping people track spending and make smarter money decisions. [View repo →](https://github.com/Subin-hubs/money_management)
 
 <br/>
 
