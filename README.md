@@ -69,7 +69,7 @@ class SubinTamang extends Developer {
     </td>
     <td width="45%" align="center">
       <a href="https://github.com/Subin-hubs/AGROVA">
-        <img src="./assets/afforda-logo.png" width="180" alt="Afforda logo" />
+        <img src="./assets/aggrova_logo.png" width="180" alt="Afforda logo" />
       </a>
     </td>
   </tr>
