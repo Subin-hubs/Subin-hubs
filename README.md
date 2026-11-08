@@ -1,149 +1,109 @@
+<!-- ═══════════════════════  HERO  ═══════════════════════ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:0e75b6,100:00c6ff&height=230&section=header&text=Subin%20Tamang&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Flutter%20%E2%80%A2%20Full%20Stack%20%E2%80%A2%20Building%20from%20Nepal%20%F0%9F%87%B3%F0%9F%87%B5&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Subin Tamang" />
+</p>
 
+<p align="center">
+  <a href="https://subintamang.com.np">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00C6FF&center=true&vCenter=true&width=650&lines=I+build+beautiful+Flutter+apps+%F0%9F%93%B1;Crafting+pixel-perfect+UI%2FUX+%E2%9C%A8;Shipping+Afforda+%E2%80%94+AI+personal+finance+%F0%9F%92%B8;Clean+code.+Fast+apps.+Real+impact.+%F0%9F%9A%80" alt="Typing intro" />
+  </a>
+</p>
 
-<div align="center">
+<p align="center">
+  <a href="https://subintamang.com.np"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00c6ff" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/subin-tamang-394179300"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00c6ff" alt="LinkedIn" /></a>
+  <a href="mailto:subintamang008@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00c6ff" alt="Email" /></a>
+  <a href="https://github.com/subin-hubs"><img src="https://img.shields.io/github/followers/subin-hubs?style=for-the-badge&logo=github&logoColor=00c6ff&label=Followers&labelColor=0d1117&color=0e75b6" alt="Followers" /></a>
+</p>
 
-<!-- Animated typing intro -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Subin+Tamang+%F0%9F%91%8B;Flutter+%26+Full+Stack+Developer;Turning+Coffee+%E2%98%95+into+Flutter+Apps;Based+in+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-<!-- Profile views + socials -->
-<img src="https://komarev.com/ghpvc/?username=subin-hubs&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />&nbsp;
-<a href="https://linkedin.com/in/subin-tamang-394179300"><img src="https://img.shields.io/badge/LinkedIn-0e75b6?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:subintamang008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
-<a href="https://subintamang.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<!-- ═══════════════════════  ABOUT (as Dart code)  ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" /> About Me
 
-</div>
+```dart
+class SubinTamang extends Developer {
+  final String role      = "Flutter & Full Stack Developer";
+  final String location  = "Nepal 🇳🇵";
+  final String portfolio = "subintamang.com.np";
 
-<br/>
+  final List<String> building = ["Afforda — AI-powered personal finance app"];
+  final List<String> learning = ["Riverpod", "AI Integration", "React", "Node.js", "System Design"];
+  final List<String> askMeAbout = ["Flutter", "Dart", "Firebase", "UI/UX", "Git"];
 
-## 👨‍💻 About Me
+  @override
+  String get motto => "Clean architecture. Beautiful UI. Real impact.";
 
-I'm a passionate **Flutter & Full Stack Developer** from Nepal 🇳🇵, focused on building clean, performant mobile and web experiences. I care about good UI/UX as much as clean architecture — and I genuinely enjoy the process of turning an idea into a working app.
-
-- 🔭 Currently building **[Afforda](https://github.com/Subin-hubs/Afforda)** — an AI-powered personal finance app
-- 🌱 Currently learning **Flutter, Firebase, Riverpod, AI Integration, React, Node.js, System Design**
-- 👯 Looking to collaborate on **open-source Flutter projects**
-- 💬 Ask me about **Flutter, Dart, Firebase, Mobile App Development, UI/UX, Git**
-- 🌐 All my work lives at **[subintamang.com.np](https://subintamang.com.np)**
-- ⚡ Fun fact: **I turn coffee ☕ into Flutter apps.**
-
-<!--
-  Add Education / Experience / Certifications sections here once
-  you're ready to share details — kept out for now to avoid
-  placeholder or inaccurate content.
--->
-
-<br/>
-
-## 🎯 Current Focus
-
-```text
-🔭 Building     → Afforda (AI-powered personal finance app)
-🌱 Learning     → Flutter · Firebase · Riverpod · AI Integration · React · Node.js · System Design
-🤝 Open to      → Collaborating on open-source Flutter projects
+  bool openToCollab(String project) => project.contains("Flutter"); // 🤝 open-source welcome
+}
 ```
 
-<br/>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## 🛠️ Tech Stack
+<!-- ═══════════════════════  TECH STACK  ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" /> Tech Arsenal
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,react,nodejs,js,tailwind,html,css&perline=9" alt="Core stack" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=java,c,python,mysql,git,github,figma,androidstudio,vscode&perline=9" alt="Languages and tools" />
+</p>
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=dart,java,c,js,html,css,python" />
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-**Frameworks & Libraries**
-<br/>
-<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,tailwind" />
+<!-- ═══════════════════════  FEATURED PROJECT  ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" /> Featured Project
 
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=firebase,figma,git,github,mysql,androidstudio,vscode" />
+<table>
+  <tr>
+    <td width="55%" valign="middle">
+      <h3>Aggrova</h3>
+      <p>An <b>AI-powered agricultural application built with Flutter that helps farmers identify crop issues through intelligent crop scanning and analysis, access real-time weather updates, monitor live agricultural market prices, and manage their farming insights. Powered by Firebase for authentication and data storage, with Django backend services.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=flat-square" />
+      </p>
+      <a href="https://github.com/Subin-hubs/money_management"><b>➜ Explore the repo</b></a>
+    </td>
+    <td width="45%" align="center">
+      <a href="https://github.com/Subin-hubs/AGROVA">
+        <img src="./assets/afforda-logo.png" width="180" alt="Afforda logo" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-</div>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-<br/>
+<!-- ═══════════════════════  STATS  ═══════════════════════ -->
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> GitHub Pulse
 
-## 🚀 Featured Project
+<!-- These cards are generated by .github/workflows/profile-cards.yml inside this repo -->
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile details" />
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most used languages" />
+</p>
 
-<a href="https://github.com/Subin-hubs/money_management">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=subin-hubs&repo=money_management&theme=default&hide_border=true" alt="Afforda repo card" />
-</a>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=subin-hubs&theme=tokyonight&hide_border=true" alt="Streak" />
+</p>
 
-</div>
+<!-- Snake generated by .github/workflows/snake.yml -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Subin-hubs/Subin-hubs/output/github-snake-dark.svg" width="100%" alt="Snake eating my contributions" />
+</p>
 
-> **Afforda** — an AI-powered personal finance app built with Flutter, focused on helping people track spending and make smarter money decisions. [View repo →](https://github.com/Subin-hubs/money_management)
+<!-- ═══════════════════════  FOOTER  ═══════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=500&lines=Thanks+for+dropping+by!+%E2%AD%90;Let's+build+something+amazing+together+%F0%9F%A4%9D" alt="Thanks" />
+</p>
 
-<br/>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=subin-hubs&show_icons=true&count_private=true&hide_border=true&title_color=0e75b6&icon_color=0e75b6" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subin-hubs&layout=compact&hide_border=true&title_color=0e75b6&langs_count=8" alt="Top Languages" height="165"/>
-
-<img src="https://streak-stats.demolab.com/?user=subin-hubs&hide_border=true&background=00000000&stroke=0e75b6&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=subin-hubs&theme=react-dark&hide_border=true&bg_color=00000000" alt="Contribution Graph" width="95%"/>
-
-</div>
-
-<br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=subin-hubs&theme=flat&no-frame=true&margin-w=10&row=1" alt="GitHub Trophies" />
-
-</div>
-
-<br/>
-
-## 🎯 Goals for 2026
-
-- [ ] Ship **Afforda** publicly with a polished v1.0 release
-- [ ] Contribute to at least 3 open-source Flutter repositories
-- [ ] Level up backend skills with Node.js and system design
-- [ ] Grow a consistent GitHub contribution streak
-
-<br/>
-
-## 💬 Quote
-
-<div align="center">
-
-*"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-</div>
-
-<br/>
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/subin-tamang-394179300" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-&nbsp;
-<a href="mailto:subintamang008@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" />
-</a>
-&nbsp;
-<a href="https://subintamang.com.np" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="30" width="40" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-⭐️ From **[subin-hubs](https://github.com/subin-hubs)** — thanks for stopping by!
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:0e75b6,100:0f2027&height=120&section=footer" width="100%" alt="footer" />
+</p>
